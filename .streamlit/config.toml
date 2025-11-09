@@ -3,7 +3,7 @@
 baseFontSize=16
 codeFontSize="0.875rem"
 primaryColor = "#911737ff"
-backgroundColor = "#09eee2ff"
-secondaryBackgroundColor = "#c7bcadff"
-textColor = "#690edfff"
+backgroundColor = "#f9f4f5"
+secondaryBackgroundColor = "#fb6107"
+textColor = "#1b2021"
 font = "sans serif"
