@@ -1,0 +1,9 @@
+[theme]
+
+baseFontSize=16
+codeFontSize="0.875rem"
+primaryColor = "#911737ff"
+backgroundColor = "#09eee2ff"
+secondaryBackgroundColor = "#c7bcadff"
+textColor = "#690edfff"
+font = "sans serif"
